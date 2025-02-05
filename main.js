@@ -69,7 +69,7 @@ boton.addEventListener("click", () => {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3151.003356993401!2d-57.63775632411361!3d-37.83680727196983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzfCsDUwJzEyLjUiUyA1N8KwMzgnMDYuNyJX!5e0!3m2!1ses!2sar!4v1717711547688!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!4v1738760519627!6m8!1m7!1sUoyjXJgKBeqdcQbeu49JKQ!2m2!1d-29.16087311777703!2d-59.6647468311524!3f257.8885294117647!4f1.5925490196078442!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
