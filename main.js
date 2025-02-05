@@ -76,3 +76,17 @@ boton.addEventListener("click", () => {
     })
   });
 
+
+
+  function exito(){
+    Swal.fire({
+        title: '<strong>VER LA UBICACION<u></u></strong>',
+        icon: 'success',
+        html:
+          'INGRESÁ' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!4v1738760596004!6m8!1m7!1sfhvznioSKoXyXrGowY9GbQ!2m2!1d-29.14757650646519!2d-59.6604579107816!3f313.8!4f-6.049999999999997!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          'Podes ampliar el mapa',
+          
+          
+      })
+}
